@@ -1,6 +1,6 @@
 # Viva Pinata Plus
 
-Welcome to the Viva Pinata Plus! Our mission is to enhance the classic gaming experience of *Viva Pinata* by addressing some of the limitations in the PC version and introducing modern quality-of-life features.
+Welcome to Viva Pinata Plus! Our mission is to enhance the classic gaming experience of *Viva Pinata* by addressing some of the limitations in the PC version and introducing modern quality-of-life features.
 
 ## Features
 
