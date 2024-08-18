@@ -7,17 +7,6 @@ Welcome to Viva Pinata Plus! Our mission is to enhance the classic gaming experi
 ### 1. Disable Item Limits
 One of the most requested improvements is the ability to bypass the item limits within your garden. Our mod eliminates these restrictions, allowing you to fully customize your garden without having to worry about running out of space for your favorite items.
 
-### 2. Windowed Mode
-We understand that playing in fullscreen mode might not always be ideal. Our mod adds a windowed mode option, giving you the flexibility to play the game in a windowed environment that fits your needs.
-
-## Future Enhancements
-
-We’re committed to continually improving the *Viva Pinata* experience. Here’s a glimpse of what’s coming next:
-
-- **Additional Quality of Life Improvements**: We are actively working on various enhancements to make your gaming experience smoother and more enjoyable.
-- **Patches and Fixes**: Expect updates that address bugs and improve game stability.
-- **Mod Support**: Our goal is to provide comprehensive modding support, allowing you and the community to create and share a wide range of modifications.
-
 ## Installation
 
 To get started with our mods:
